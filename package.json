@@ -1,0 +1,7 @@
+{
+  "name": "flappy-birch",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs"
+  }
+}
