@@ -4,7 +4,9 @@ A one-button Flappy Bird set in a birch grove. Fly the robin yourself, or hand i
 
 ## Demo
 
-[Flappy Bird — JEV.mp4](<./Flappy Bird — JEV.mp4>) — open the file to play the run. GitHub shows a player on that page.
+[Watch Jev play](https://x777.github.io/flappy-bird-jev/demo.html).
+
+The recording is `Flappy Bird — JEV.mp4` in this repository. GitHub's file page will not open a video of this size, so use the link above.
 
 ## Run it
 
